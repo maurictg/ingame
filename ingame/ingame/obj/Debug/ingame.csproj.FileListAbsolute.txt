@@ -1,7 +1,6 @@
 U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\ingame.exe.config
 U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\ingame.exe
 U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\ingame.pdb
-U:\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.csprojResolveAssemblyReference.cache
 U:\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.Home.resources
 U:\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.Properties.Resources.resources
 U:\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.csproj.GenerateResource.cache
@@ -18,3 +17,65 @@ U:\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.Level1.resourc
 \\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.csproj.GenerateResource.Cache
 \\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.exe
 \\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.pdb
+U:\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.csproj.CoreCompileInputs.cache
+U:\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.csprojResolveAssemblyReference.cache
+U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\EntityFramework.dll
+U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\EntityFramework.SqlServer.dll
+U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\System.Data.SQLite.dll
+U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\System.Data.SQLite.EF6.dll
+U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\System.Data.SQLite.Linq.dll
+U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\EntityFramework.xml
+U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\EntityFramework.SqlServer.xml
+U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\System.Data.SQLite.xml
+U:\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\System.Data.SQLite.dll.config
+U:\Documents\SharpDevelop Projects\ingame\ingame\obj\Debug\ingame.csproj.CopyComplete
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\EntityFramework.dll
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\EntityFramework.SqlServer.dll
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\System.Data.SQLite.dll
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\System.Data.SQLite.EF6.dll
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\System.Data.SQLite.Linq.dll
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\EntityFramework.xml
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\EntityFramework.SqlServer.xml
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\ingame\ingame\bin\Debug\System.Data.SQLite.xml
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\ingame.exe.config
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\ingame.exe
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\ingame.pdb
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\EntityFramework.dll
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.dll
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\EntityFramework.xml
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.xml
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\obj\Debug\ingame.Home.resources
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\obj\Debug\ingame.Level1.resources
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\obj\Debug\ingame.Properties.Resources.resources
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\obj\Debug\ingame.csproj.GenerateResource.cache
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\obj\Debug\ingame.csproj.CoreCompileInputs.cache
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\obj\Debug\ingame.csproj.CopyComplete
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\obj\Debug\ingame.exe
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\obj\Debug\ingame.pdb
+C:\Users\MaurICT\Downloads\in-game\ingame\ingame\obj\Debug\ingame.csprojAssemblyReference.cache
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\ingame.exe.config
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\ingame.exe
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\ingame.pdb
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\EntityFramework.dll
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\EntityFramework.SqlServer.dll
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.dll
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.EF6.dll
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.Linq.dll
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\EntityFramework.xml
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\EntityFramework.SqlServer.xml
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.xml
+U:\Downloads\in-game\in-game\ingame\ingame\bin\Debug\System.Data.SQLite.dll.config
+U:\Downloads\in-game\in-game\ingame\ingame\obj\Debug\ingame.csprojResolveAssemblyReference.cache
+U:\Downloads\in-game\in-game\ingame\ingame\obj\Debug\ingame.Home.resources
+U:\Downloads\in-game\in-game\ingame\ingame\obj\Debug\ingame.Level1.resources
+U:\Downloads\in-game\in-game\ingame\ingame\obj\Debug\ingame.Properties.Resources.resources
+U:\Downloads\in-game\in-game\ingame\ingame\obj\Debug\ingame.csproj.GenerateResource.cache
+U:\Downloads\in-game\in-game\ingame\ingame\obj\Debug\ingame.csproj.CoreCompileInputs.cache
+U:\Downloads\in-game\in-game\ingame\ingame\obj\Debug\ingame.csproj.CopyComplete
+U:\Downloads\in-game\in-game\ingame\ingame\obj\Debug\ingame.exe
+U:\Downloads\in-game\in-game\ingame\ingame\obj\Debug\ingame.pdb
